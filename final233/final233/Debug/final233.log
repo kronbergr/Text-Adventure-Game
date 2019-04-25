@@ -1,0 +1,24 @@
+﻿  Source.cpp
+c:\users\rlkro\source\repos\final233\final233\source.cpp(321): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlkro\source\repos\final233\final233\source.cpp(391): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlkro\source\repos\final233\final233\source.cpp(460): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlkro\source\repos\final233\final233\source.cpp(489): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlkro\source\repos\final233\final233\source.cpp(602): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlkro\source\repos\final233\final233\source.cpp(629): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlkro\source\repos\final233\final233\source.cpp(685): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlkro\source\repos\final233\final233\source.cpp(780): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlkro\source\repos\final233\final233\source.cpp(806): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlkro\source\repos\final233\final233\source.cpp(1170): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlkro\source\repos\final233\final233\source.cpp(1196): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlkro\source\repos\final233\final233\source.cpp(1601): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlkro\source\repos\final233\final233\source.cpp(1669): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlkro\source\repos\final233\final233\source.cpp(1738): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlkro\source\repos\final233\final233\source.cpp(1767): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlkro\source\repos\final233\final233\source.cpp(1880): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlkro\source\repos\final233\final233\source.cpp(1907): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlkro\source\repos\final233\final233\source.cpp(1963): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlkro\source\repos\final233\final233\source.cpp(2058): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlkro\source\repos\final233\final233\source.cpp(2084): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlkro\source\repos\final233\final233\source.cpp(2448): warning C4018: '<': signed/unsigned mismatch
+c:\users\rlkro\source\repos\final233\final233\source.cpp(2474): warning C4018: '<': signed/unsigned mismatch
+  final233.vcxproj -> C:\Users\rlkro\source\repos\final233\Debug\final233.exe
